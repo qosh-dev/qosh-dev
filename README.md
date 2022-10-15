@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Software developer 
+## Software developer 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Typescript, React, Ruby, Ruby on rails and etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 
