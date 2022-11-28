@@ -5,7 +5,6 @@
 ## Software developer 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Typescript, React, Ruby, Ruby on rails and etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 
 
 ---
 
