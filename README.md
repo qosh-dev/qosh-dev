@@ -21,9 +21,6 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="javascript" height="40"/> 
   </a> 
   
-   <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Ruby-white?logo=ruby&logoColor=rgb(240,%2081,%2056)" alt="javascript" height="40"/> 
-  </a> 
 
   <a href="https://www.swift.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Swift-white?style=flat-square&logo=swift&logoColor=rgb(240,%2081,%2056)" alt="git" height="40"/> 
