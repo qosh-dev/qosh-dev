@@ -4,7 +4,7 @@
 
 ## Software developer 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Typescript, React, Ruby, Ruby on rails and etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, Typescript, React and etc.
 
 ---
 
